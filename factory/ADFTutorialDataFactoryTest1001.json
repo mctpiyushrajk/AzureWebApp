@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactoryTest1001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e992695-1da2-4aad-9baf-6e73f93f8616",
+		"tenantId": "7e6e4866-f979-4b2e-af71-a58e9ecef60e"
+	}
+}
