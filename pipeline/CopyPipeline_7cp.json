@@ -39,15 +39,8 @@
 					"sink": {
 						"type": "AzureSqlSink"
 					},
-					"enableStaging": false,
-					"validateDataConsistency": false
+					"enableStaging": false
 				},
-				"inputs": [
-					{
-						"referenceName": "SourceDataset_7cp",
-						"type": "DatasetReference"
-					}
-				],
 				"outputs": [
 					{
 						"referenceName": "DestinationDataset_7cp",
